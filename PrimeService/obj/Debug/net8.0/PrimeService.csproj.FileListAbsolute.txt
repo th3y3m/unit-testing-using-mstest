@@ -9,3 +9,15 @@ E:\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.dll
 E:\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
 E:\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.pdb
 E:\C#\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
+E:\19-6\unit-testing-using-mstest\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+E:\19-6\unit-testing-using-mstest\PrimeService\bin\Debug\net8.0\PrimeService.dll
+E:\19-6\unit-testing-using-mstest\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.sourcelink.json
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.dll
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+E:\19-6\unit-testing-using-mstest\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
