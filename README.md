@@ -1,4 +1,4 @@
-[![unit-testing-using-mstest project(CI applied)](https://github.com/th3y3m/unit-testing-using-mstest/actions/workflows/ci-script.yml/badge.svg)](https://github.com/th3y3m/unit-testing-using-mstest/actions/workflows/ci-script.yml)
+[![unit-testing-using-mstest project (CI applied)](https://github.com/th3y3m/unit-testing-using-mstest/actions/workflows/ci-script.yml/badge.svg)](https://github.com/th3y3m/unit-testing-using-mstest/actions/workflows/ci-script.yml)
 
 # Welcome to unit-testing-using-mstest Repository
 
