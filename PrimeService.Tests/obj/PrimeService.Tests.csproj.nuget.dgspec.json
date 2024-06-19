@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
+    "E:\\19-6\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
   },
   "projects": {
-    "E:\\C#\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj": {
+    "E:\\19-6\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectUniqueName": "E:\\19-6\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "projectName": "PrimeService.Tests",
-        "projectPath": "E:\\C#\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectPath": "E:\\19-6\\unit-testing-using-mstest\\PrimeService.Tests\\PrimeService.Tests.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\unit-testing-using-mstest\\PrimeService.Tests\\obj\\",
+        "outputPath": "E:\\19-6\\unit-testing-using-mstest\\PrimeService.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\C#\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj": {
-                "projectPath": "E:\\C#\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj"
+              "E:\\19-6\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj": {
+                "projectPath": "E:\\19-6\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj"
               }
             }
           }
@@ -83,18 +83,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\C#\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj": {
+    "E:\\19-6\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "E:\\19-6\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "E:\\C#\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
+        "projectPath": "E:\\19-6\\unit-testing-using-mstest\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\unit-testing-using-mstest\\PrimeService\\obj\\",
+        "outputPath": "E:\\19-6\\unit-testing-using-mstest\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
